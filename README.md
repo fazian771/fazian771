@@ -75,8 +75,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ameen-hamza-0139ba274/"><img src="https://img.shields.io/badge/-Ameen%20Hamza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ameenhamza222@gmail.com"><img src="https://img.shields.io/badge/-ameenhamza222@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/faizan-aqeel-26ba7621a"><img src="https://img.shields.io/badge/-Muhammad Faizan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:faizan.aqeel814gmail.com"><img src="https://img.shields.io/badge/-faizan.aqeel814@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
 <br>
