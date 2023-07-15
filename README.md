@@ -14,7 +14,7 @@
 
 📧 faizan.aqeel814@gmail.com
 
-🎨 Portfolio: https://ameenhamza.github.io/Portfolio-theme/
+🎨 Portfolio:"https://.github.io/Portfolio-theme/"
 
 💼 LinkedIn: www.linkedin.com/in/faizan-aqeel-26ba7621a
 
