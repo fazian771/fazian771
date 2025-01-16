@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Faizan👋<a href="https://.github.io/Portfolio-theme/"></h1>
   </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Dat+Analyst;Machine+Learning+Developer" alt="Typing SVG" /></a>	
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=++++++++++++++++++++++++Data+Analyst;+++++++++++Machine+Learning+Developer" alt="Typing SVG" /></a>	
 
 🤵 Data Anylast &  Machine learning Professional
 
